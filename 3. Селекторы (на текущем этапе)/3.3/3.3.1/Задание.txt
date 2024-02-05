@@ -1,0 +1,16 @@
+Дан следующий код:
+
+<ul>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+</ul>
+
+<p>
+	<li>paragraph text <i>italic</i></li>
+</p>
+<p>
+	<li>paragraph text <i>italic</i></li>
+</p>
+Покрасьте в красный цвет курсив из тегов ul, а в зеленый цвет - курсив из тегов p.
