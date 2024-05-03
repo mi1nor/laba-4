@@ -1,0 +1,3 @@
+li:not(:last-child) {
+    color: red;
+}
