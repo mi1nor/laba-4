@@ -1,0 +1,8 @@
+Упростите код, используя группировку селекторов:
+
+#block h1 {
+	text-align: center;
+}
+#block h2 {
+	text-align: center;
+}

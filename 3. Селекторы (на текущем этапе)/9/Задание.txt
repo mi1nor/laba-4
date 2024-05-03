@@ -1,0 +1,15 @@
+Дан следующий код:
+
+<p class="eee">
+	text <i>italic</i>
+</p>
+<p class="eee">
+	text <i>italic</i>
+</p>
+<div class="eee">
+	text <i>italic</i>
+</div>
+<div class="eee">
+	text <i>italic</i>
+</div>
+Покрасьте в красный цвет все теги i, находящиеся в элементах с классом eee.

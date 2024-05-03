@@ -1,0 +1,9 @@
+<ul>
+	<li class="odd">text</li>
+	<li class="eve">text</li>
+	<li class="odd">text</li>
+	<li class="eve">text</li>
+	<li class="odd">text</li>
+	<li class="eve">text</li>
+</ul>
+Покрасьте в красный цвет элементы с классом odd и в зеленый цвет - элементы с классом eve.

@@ -1,0 +1,9 @@
+Дан следующий код:
+
+<p>
+	Lorem ipsum <span class="xxx">dolor sit</span> amet.
+</p>
+<p>
+	<span class="xxx">Lorem ipsum</span> dolor sit amet.
+</p>
+Сделайте элементы с классом xxx размером в 30px.
